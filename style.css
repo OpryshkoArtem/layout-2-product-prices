@@ -24,10 +24,8 @@
 
 .price-card {
   width: 380px;
+  min-width: 380px;
   height: 770px;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 0;
   position: relative;
   overflow: hidden;
   background-color: #334247;
