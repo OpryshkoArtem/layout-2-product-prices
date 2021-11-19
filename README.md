@@ -8,7 +8,7 @@ Supports only desktop versions and no Responsive
 
 ## Pages implemented:
 
-https://opryshkoartem.github.io/grom-layout1/index.html
+https://opryshkoartem.github.io/layout-2-product-prices/index.html
 
 ## Tech stack:
 
