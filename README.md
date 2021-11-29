@@ -1,21 +1,17 @@
 # Price cards
 
-## Description:
+### [Site link](https://opryshkoartem.github.io/layout-2-product-prices/index.html)
 
-This is layout with product prices
+Layout supports mobile (up-to-400) and desktop (up-to-1360) versions
 
-Supports only desktop versions and no Responsive
+### The tech stack is:
 
-## Pages implemented:
-
-https://opryshkoartem.github.io/layout-2-product-prices/index.html
-
-## Tech stack:
-
-[HTML5](https://en.wikipedia.org/wiki/HTML5), [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), [Sass (Scss)](https://sass-lang.com/)
-
-[BEM methodology](https://en.bem.info/methodology/), [Flexbox layout](https://en.wikipedia.org/wiki/CSS_Flexible_Box_Layout)
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [Flexbox](https://en.wikipedia.org/wiki/CSS_Flexible_Box_Layout)
+- [Sass (Scss)](https://sass-lang.com/)
+- [BEM methodology](https://en.bem.info/methodology/)
 
 ### Author
 
-Artem Opryshko
+- Artem Opryshko

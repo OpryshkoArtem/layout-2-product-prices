@@ -11,7 +11,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color: #ffffff;
 }
 
@@ -77,7 +77,7 @@
   background-color: #2a3438;
 }
 .price-card__options-item::before {
-  content: url("https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_green.png");
+  content: url('https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_green.png');
   position: absolute;
   left: 21px;
 }
@@ -94,11 +94,11 @@
 }
 
 .price-card__options-list--blue .price-card__options-item::before {
-  content: url("https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_blue.png");
+  content: url('https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_blue.png');
 }
 
 .price-card__options-list--orange .price-card__options-item::before {
-  content: url("https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_orange.png");
+  content: url('https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_orange.png');
 }
 
 .green {
